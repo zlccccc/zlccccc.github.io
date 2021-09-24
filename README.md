@@ -7,4 +7,4 @@
 
 ## Research Interests
 
-+ Vision-and-Language Pretraining.
++ Vision-and-Language.
