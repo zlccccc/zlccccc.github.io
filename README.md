@@ -8,3 +8,4 @@
 ## Research Interests
 
 + Vision-and-Language.
++ 3D Point Cloud.
